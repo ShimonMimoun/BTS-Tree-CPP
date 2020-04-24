@@ -4,5 +4,9 @@
 
 # Build 
  - Cpp (Clang ) 
- - Linus
+ - Linux
  - Visual 
+
+# Editor
+- Omer Paz
+- Shimon Mimoun
